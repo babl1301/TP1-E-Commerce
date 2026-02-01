@@ -9,7 +9,13 @@
 
 <url>
   <loc>https://babl1301.github.io/TP1-E-Commerce/</loc>
-  <lastmod>2026-01-22T22:49:55+00:00</lastmod>
+  <lastmod>2026-02-01T21:24:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://babl1301.github.io/TP1-E-Commerce/about.html</loc>
+  <lastmod>2026-02-01T21:24:58+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
